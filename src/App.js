@@ -27,6 +27,11 @@ const accordionData = [
     content:
       "Props are inputs to components. They are passed down from parent to child components and help make components dynamic and reusable.",
   },
+  {
+    id: 5,
+    title: "What is your Name?",
+    content: "My name is sanjay singh mehara",
+  },
 ];
 
 export default function App() {
